@@ -10,4 +10,4 @@ Testes deste MCP Server com Visual Studio Code + GitHub Copilot:
 
 Um dos traces gerados no Grafana, a partir do uso de OpenTelemetry + Alloy + Tempo:
 
-![Visualização do trace gerado no Grafana](img/vscode-01.png)
+![Visualização do trace gerado no Grafana](img/grafana-01.png)
